@@ -9,7 +9,7 @@
     <item>
       <title>Episode 1: My Drive Episode</title>
       <description>Streaming directly from Google Drive.</description>
-      <enclosure url="https://docs.google.com/uc?export=download&id=1cOiu55OgTrox0ZVHHZqQH0TQw0YyYw5B" length="0" type="audio/mpeg"/>
+      <enclosure url="https://docs.google.com/uc?export=download&ampid=1cOiu55OgTrox0ZVHHZqQH0TQw0YyYw5B" length="0" type="audio/mpeg"/>
       <guid>unique-id-001</guid>
     </item>
 
