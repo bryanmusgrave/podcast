@@ -1,13 +1,24 @@
-<item>
-      <title>The War Doctor 101 The Innocent</title>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>My Private Podcast</title>
+    <description>A completely hidden feed for select listeners.</description>
+    <link>https://github.com</link>
+    <language>en-us</language>
+
+    <!-- EPISODE 1 -->
+    <item>
+      <title>Episode 1: My Drive Episode</title>
       <description>Streaming directly from Google Drive.</description>
       <pubDate>Mon, 15 Jun 2026 12:00:00 EST</pubDate>
       <guid isPermaLink="false">unique-id-001</guid>
       <enclosure url="https://docs.google.com/uc?export=download&amp;id=1cOiu55OgTrox0ZVHHZqQH0TQw0YyYw5B" length="0" type="audio/mpeg"/>
     </item>
-<item>
+
+    <!-- EPISODE 2 -->
+    <item>
       <title>Book 01 - Harry Potter and the Philosopher's Stone</title>
-      <description>Book 01 - Harry Potter and the Philosopher's Stone</description>
+      <description>Our second private episode is officially live.</description>
       <pubDate>Wed, 17 Jun 2026 12:00:00 EST</pubDate>
       <guid isPermaLink="false">unique-id-002</guid>
       <enclosure url="https://docs.google.com/uc?export=download&amp;id=1uTjdbaTmvwra5q__gEHqGeJcbnsbZhjj" length="0" type="audio/mpeg"/>
