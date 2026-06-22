@@ -24,5 +24,13 @@
       <enclosure url="https://docs.google.com/uc?export=download&amp;id=1HG0hAbSdowYM3Y1eYqR9_nanq6GKu2UX" length="0" type="audio/mpeg"/>
     </item>
 
+        <!-- EPISODE 3 -->
+    <item>
+      <title>Book 01 - Harry Potter and the Philosopher's Stone 9-17</title>
+      <description>Our second private episode is officially live.</description>
+      <pubDate>Wed, 17 Jun 2026 12:00:00 EST</pubDate>
+      <guid isPermaLink="false">unique-id-003</guid>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1CT3D_NVEurmpqvubTY_x0qIh1-JRtQvy" length="0" type="audio/mpeg"/>
+    </item>
   </channel>
 </rss>
