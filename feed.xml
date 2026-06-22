@@ -8,7 +8,7 @@
 
     <!-- EPISODE 1 -->
     <item>
-      <title>Episode 1: My Drive Episode</title>
+      <title>Episode 1: The War Doctor 101 The Innocent</title>
       <description>Streaming directly from Google Drive.</description>
       <pubDate>Mon, 15 Jun 2026 12:00:00 EST</pubDate>
       <guid isPermaLink="false">unique-id-001</guid>
@@ -17,11 +17,11 @@
 
     <!-- EPISODE 2 -->
     <item>
-      <title>Book 01 - Harry Potter and the Philosopher's Stone</title>
+      <title>Book 01 - Harry Potter and the Philosopher's Stone 1-8</title>
       <description>Our second private episode is officially live.</description>
       <pubDate>Wed, 17 Jun 2026 12:00:00 EST</pubDate>
       <guid isPermaLink="false">unique-id-002</guid>
-      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1uTjdbaTmvwra5q__gEHqGeJcbnsbZhjj" length="0" type="audio/mpeg"/>
+      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1HG0hAbSdowYM3Y1eYqR9_nanq6GKu2UX" length="0" type="audio/mpeg"/>
     </item>
 
   </channel>
