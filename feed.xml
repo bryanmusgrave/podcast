@@ -17,20 +17,11 @@
 
     <!-- EPISODE 2 -->
     <item>
-      <title>Book 01 - Harry Potter and the Philosopher's Stone 1-8</title>
+      <title>Book 01 - Harry Potter and the Philosopher's Stone</title>
       <description>Our second private episode is officially live.</description>
       <pubDate>Wed, 17 Jun 2026 12:00:00 EST</pubDate>
       <guid isPermaLink="false">unique-id-002</guid>
-      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1HG0hAbSdowYM3Y1eYqR9_nanq6GKu2UX" length="0" type="audio/mpeg"/>
-    </item>
-
-        <!-- EPISODE 3 -->
-    <item>
-      <title>Book 01 - Harry Potter and the Philosopher's Stone 9-17</title>
-      <description>Our second private episode is officially live.</description>
-      <pubDate>Wed, 17 Jun 2026 12:00:00 EST</pubDate>
-      <guid isPermaLink="false">unique-id-003</guid>
-      <enclosure url="https://docs.google.com/uc?export=download&amp;id=1CT3D_NVEurmpqvubTY_x0qIh1-JRtQvy" length="0" type="audio/mpeg"/>
+      <enclosure url="https://www.dropbox.com/scl/fi/chph63s8732dzu3x7x9di/Book-01-Harry-Potter-and-the-Philosopher-s-Stone.mp3?rlkey=gjillxkd957tcmdtr3isr9yxk&st=mw9poaza&raw=1" length="0" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
