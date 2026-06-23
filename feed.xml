@@ -21,7 +21,7 @@
       <description>Our second private episode is officially live.</description>
       <pubDate>Wed, 17 Jun 2026 12:00:00 EST</pubDate>
       <guid isPermaLink="false">unique-id-004</guid>
-      <enclosure url="https://www.dropbox.com/scl/fi/chph63s8732dzu3x7x9di/Book-01-Harry-Potter-and-the-Philosopher-s-Stone.mp3?rlkey=gjillxkd957tcmdtr3isr9yxk&smp;st=mw9poaza&amp;raw=1" length="500000" type="audio/mpeg"/>
+      <enclosure url="https://www.dropbox.com/scl/fi/chph63s8732dzu3x7x9di/Book-01-Harry-Potter-and-the-Philosopher-s-Stone.mp3?rlkey=gjillxkd957tcmdtr3isr9yxk&amp;st=mw9poaza&amp;raw=1" length="500000" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
