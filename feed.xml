@@ -3,7 +3,7 @@
   <channel>
     <title>PaPa's Private Podcast</title>
     <!-- Main Show Artwork -->
-    <itunes:image href="https://github.com/bryanmusgrave/podcast/blob/main/podcastart2.png?raw=true" />
+    <itunes:image href="https://raw.githubusercontent.com/bryanmusgrave/podcast/main/podcastart2.png" />
     <description>A completely hidden feed for select listeners.</description>
     <link>https://github.com</link>
     <language>en-us</language>
