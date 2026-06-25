@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>My Private Podcast</title>
+    <title>PaPa's Private Podcast</title>
+    <!-- Main Show Artwork -->
+    <itunes:image href="https://www.dropbox.com/scl/fi/ueyf4mbkk18wgsdqc3agv/ChatGPT-Image-Jun-24-2026-08_42_30-PM.png?rlkey=nxoomsm0jti7w0mxf5omqhmy0&amp;st=fr1dmgvb&amp;raw=1" />
     <description>A completely hidden feed for select listeners.</description>
     <link>https://github.com</link>
     <language>en-us</language>
