@@ -3,7 +3,7 @@
   <channel>
     <title>PaPa's Private Podcast</title>
     <!-- Main Show Artwork -->
-    <itunes:image href="https://www.dropbox.com/scl/fi/ueyf4mbkk18wgsdqc3agv/ChatGPT-Image-Jun-24-2026-08_42_30-PM.png?rlkey=nxoomsm0jti7w0mxf5omqhmy0&amp;st=fr1dmgvb&amp;raw=1" />
+    <itunes:image href="https://github.com/bryanmusgrave/podcast/blob/main/podcast%20art.png"/>
     <description>A completely hidden feed for select listeners.</description>
     <link>https://github.com</link>
     <language>en-us</language>
